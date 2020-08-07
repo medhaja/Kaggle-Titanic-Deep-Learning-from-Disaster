@@ -97,3 +97,5 @@ SOFTWARE.
 - Website - [Medhaja H L](https://medhaja.github.io/cv/)
 
 [Back To The Top](#Titanic-Deep-Learning-from-Disaster)
+
+[![HitCount](http://hits.dwyl.com/medhaja/Kaggle-Titanic-Deep-Learning-from-Disaster.svg)](http://hits.dwyl.com/medhaja/Kaggle-Titanic-Deep-Learning-from-Disaster)
